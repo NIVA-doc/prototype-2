@@ -6,51 +6,51 @@
     ],
     [
       "patient",
-      "cold"
+      "bleeding per vagina at 60 years of age"
     ],
     [
       "bot",
-      "How long have you been experiencing this cold symptom?"
+      "Have you noticed any patterns to the bleeding, such as when it occurs or how heavy it is?"
     ],
     [
       "patient",
-      "3 days"
+      "everyday one pad per day"
     ],
     [
       "bot",
-      "Are you using any over-the-counter medications to treat your symptoms?"
+      "Have you experienced any changes in your menstrual cycle or periods over the past year?"
     ],
     [
       "patient",
-      "syrup"
+      "im 60 years old , i attained menopause at 45"
     ],
     [
       "bot",
-      "Are you still able to taste and smell normally?"
+      "Have you had any recent changes in your hormone replacement therapy or medications that could be contributing to this bleeding?"
     ],
     [
       "patient",
-      "yes"
+      "im not on any medication"
     ],
     [
       "bot",
-      "Are you experiencing a runny nose, cough, or congestion?"
+      "Have you had any prior abnormal Pap smears or cervical biopsies?"
     ],
     [
       "patient",
-      "yes"
+      "not done yet"
     ],
     [
       "bot",
-      "Thank you. I have collected all required information."
+      "Thank you. I have collected all the required information."
     ]
   ],
   "structured": {
-    "symptoms": "cold",
-    "duration": "3 days",
-    "severity": "syrup",
-    "additional_symptoms": "yes",
-    "medical_history": "yes",
+    "symptoms": "bleeding per vagina at 60 years of age",
+    "duration": "everyday one pad per day",
+    "severity": "im 60 years old , i attained menopause at 45",
+    "additional_symptoms": "im not on any medication",
+    "medical_history": "not done yet",
     "urgency": "low"
   },
   "triage": {
